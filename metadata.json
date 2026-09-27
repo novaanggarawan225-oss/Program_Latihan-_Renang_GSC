@@ -1,0 +1,6 @@
+{
+  "name": "SWIM PERFORMANCE & TRAINING TRACKER",
+  "description": "Aplikasi komprehensif pelatih dan atlet renang untuk pencatatan waktu, perbandingan PB, analisis tren performa, rekomendasi latihan renang dan fisik, monitoring pemulihan, dan asisten AI Coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
